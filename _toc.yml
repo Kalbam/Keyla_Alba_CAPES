@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: Cap_1_Intr_Proyect 
+- file: Cap_2_Data_INMET_NASA 
+- file: Cap_3_EDA_INMET
