@@ -7,7 +7,7 @@ Profesora: MSc. Keyla Vanessa Alba Molina
 <p align="center">
   <img src="figures/Sistemas_eléctricos.png" alt="Logo CAPES" width="250"/>
 </p>
-![Logo CAPES](figures/Sistemas_eléctricos.PNG)
+
 Los sistemas eléctricos constituyen pilares fundamentales para el desarrollo económico y social de cualquier nación, ya que permiten el acceso a servicios esenciales, impulsan la productividad y favorecen la equidad territorial \cite{bisaga2021mapping, garces2021lessons}. En este contexto, la transición hacia fuentes de energía renovable ha cobrado una relevancia creciente, posicionando a la energía solar como una alternativa estratégica gracias a su disponibilidad, sostenibilidad y reducción de costos.
 
 
