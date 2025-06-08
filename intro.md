@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Book
+# **La Radiación Solar en la Transición Energética**
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
-Check out the content pages bundled with this sample book to see more.
+<p align="center">
+  <img src="figures/Sistemas_eléctricos.PNG" alt="Logo CAPES" width="250"/>
+</p>
+
+Los sistemas eléctricos constituyen pilares fundamentales para el desarrollo económico y social de cualquier nación, ya que permiten el acceso a servicios esenciales, impulsan la productividad y favorecen la equidad territorial \cite{bisaga2021mapping, garces2021lessons}. En este contexto, la transición hacia fuentes de energía renovable ha cobrado una relevancia creciente, posicionando a la energía solar como una alternativa estratégica gracias a su disponibilidad, sostenibilidad y reducción de costos.
+
+
+A medida que su implementación se vuelve más accesible en términos tecnológicos y económicos, la precisión en la predicción de la radiación solar emerge como un insumo clave para maximizar la eficiencia y viabilidad de los sistemas fotovoltaicos \cite{hassan2023renewable, obaideen2023solar}. Contar con estimaciones fiables no solo mejora la planificación energética, sino que también permite una mejor gestión de la oferta y la demanda, especialmente en territorios con alta irradiación y bajos niveles de electrificación.
 
 ```{tableofcontents}
 ```
